@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="EVA2_2_DATOS"/>
+        <attribute name="authors" value="52614"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2025-08-26 04:28:55 p. m."/>
+        <attribute name="created" value="NTI2MTQ7RVNUQUNJT05NRU1POzIwMjUtMDgtMjY7MDQ6MjI6MzUgcC4gbS47MjYzMQ=="/>
+        <attribute name="edited" value="NTI2MTQ7RVNUQUNJT05NRU1POzIwMjUtMDgtMjY7MDQ6Mjg6NTUgcC4gbS47MTsyNzQ3"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <output expression="&quot;MARTIN GUILLERMO VALLEJO LOYA&quot;" newline="True"/>
+            <output expression="1000" newline="True"/>
+            <output expression="true" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
