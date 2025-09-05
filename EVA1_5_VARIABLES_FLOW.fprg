@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="EVA1_5_VARIABLES_FLOW"/>
+        <attribute name="authors" value="52614"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2025-08-28 04:44:13 p. m."/>
+        <attribute name="created" value="NTI2MTQ7RVNUQUNJT05NRU1POzIwMjUtMDgtMjg7MDM6NTU6NDYgcC4gbS47MjY0MA=="/>
+        <attribute name="edited" value="NTI2MTQ7RVNUQUNJT05NRU1POzIwMjUtMDgtMjg7MDQ6NDQ6MTMgcC4gbS47MTsyNzQx"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="Nombre" type="String" array="False" size=""/>
+            <declare name="edad" type="Integer" array="False" size=""/>
+            <assign variable="Nombre" expression="&quot;Martin Guillermo Vallejo Loya&quot;"/>
+            <assign variable="edad" expression="19"/>
+            <output expression="Nombre" newline="True"/>
+            <output expression="edad" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
