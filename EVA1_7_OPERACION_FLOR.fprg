@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="EVA1_7_OPERACION_FLOR"/>
+        <attribute name="authors" value="52614"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2025-09-01 06:21:50 p. m."/>
+        <attribute name="created" value="NTI2MTQ7RVNUQUNJT05NRU1POzIwMjUtMDktMDE7MDQ6MTI6NTkgcC4gbS47MjYzMA=="/>
+        <attribute name="edited" value="NTI2MTQ7RVNUQUNJT05NRU1POzIwMjUtMDktMDE7MDY6MjE6NTAgcC4gbS47MTsyNzMx"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="Area" type="Real" array="False" size=""/>
+            <declare name="P" type="Real" array="False" size=""/>
+            <declare name="RD" type="Real" array="False" size=""/>
+            <assign variable="RD" expression="10"/>
+            <assign variable="P" expression="3.1416"/>
+            <assign variable="Area" expression="P*RD*RD"/>
+            <output expression="&quot;EL AREA DEL CIRCULO = 10 ES&quot;" newline="True"/>
+            <output expression="Area" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
