@@ -28,7 +28,9 @@ public class EVA1_10_CAPTURA {
     System.out.print("la velocidad es... ---> ");
     System.out.print(velocidad ); 
     System.out.print("  M/S" );
-    System.out.println(" " );   
+    System.out.println(" " );
+          System.out.println(" " );
      }
     
 }
+
